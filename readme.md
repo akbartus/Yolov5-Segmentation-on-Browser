@@ -1,6 +1,3 @@
-# YOLOv5 Segmentation on Browser
-
-
 <p align="center">
   <img src="img/screenshot.jpg" />
 </p>
