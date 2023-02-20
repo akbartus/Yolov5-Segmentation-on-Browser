@@ -3,7 +3,7 @@
 </p>
 
 
-This is adapted and reduced version of YOLOv5 object segmentation (powered by onnx) created by <a href="https://github.com/Hyuto/yolov5-seg-onnxruntime-web">Wahyu Setianto</a>. It can be run on JavaScript without any frameworks.
+This is adapted and reduced version of YOLOv5 object segmentation (powered by onnx) created by <a href="https://github.com/Hyuto/yolov5-seg-onnxruntime-web">Wahyu Setianto</a>. This version can be run on JavaScript without any frameworks.
 
 ## Setup
 To see it at work, just run index.html file. 
