@@ -15,7 +15,7 @@ To see it at work, just run index.html file.
 YOLOv5n-seg model converted to onnx.
 
 ```
-used model : yolov8n-seg.onnx
+used model : yolov5n-seg.onnx
 size       : ~ 8Mb
 ```
 
